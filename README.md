@@ -1,2 +1,1 @@
-# Chatbot-Meteo
-Chatbot météo simple en Python utilisant l’API WeatherAPI. L’utilisateur demande par exemple « météo à Kinshasa ? » et le bot envoie une requête à l’API puis répond avec la température, l’humidité et les conditions météo actuelles.
+Chatbot météo développé en Python utilisant l’API WeatherAPI. Le bot reçoit une question comme « Quelle est la météo à Kinshasa ? », envoie une requête à l’API et retourne des informations précises : température, humidité, condition du ciel et autres détails météorologiques. Le projet démontre une intégration simple d’une API externe et le fonctionnement d’un chatbot basique capable de comprendre une demande utilisateur et d’y répondre de manière automatisée.
