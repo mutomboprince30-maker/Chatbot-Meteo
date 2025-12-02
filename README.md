@@ -1,4 +1,4 @@
-chatbot-meteo (Assistant Vocal Python)
+##Chatbot-meteo (Assistant Vocal Python)
 
 Ce projet est un assistant vocal en Python capable d’écouter l’utilisateur, comprendre des commandes simples, répondre oralement et fournir la météo grâce à l’API WeatherAPI.
 ## 🎤 Fonctionnalités
